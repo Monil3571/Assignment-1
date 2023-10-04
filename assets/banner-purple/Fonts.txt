@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Inter
+Author: Rasmus Andersson
+Url: https://fonts.google.com/specimen/Inter
+
+Font: Alfa Slab One
+Author: JM Solé
+Url: https://fonts.google.com/specimen/Alfa+Slab+One
